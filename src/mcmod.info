@@ -1,0 +1,17 @@
+[
+{
+    "modid" : "AssignmentMod",
+    "name" : "Assignment Mod",
+    "version" : "0.0.1",
+    "credits" : "Vswe for his awesome lectures!",
+    "authors" : [
+        "Robotic-Brain"
+    ],
+    "description" : "An Assignment as part of Vswe's Summer courses",
+    "url" : "https://github.com/Robotic-Brain/Vswe-Forging-A-Mod-Assignment",
+    "updateUrl" : "",
+    "logoFile" : "",
+    "parent" : "",
+    "screenshots" : []
+}
+]
